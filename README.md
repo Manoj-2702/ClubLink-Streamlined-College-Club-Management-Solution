@@ -1,6 +1,6 @@
 # College Club Management System
 
-This is a web-based College Club Management System developed using Spring Boot, Maven, SQL, and Java. The system facilitates the management of college clubs, events, and memberships. It provides functionalities for member registration, club head management, and faculty oversight.
+The College Club Management System is a comprehensive web application designed to streamline the administration of college clubs, events, and membership. Built using Spring Boot, Maven, SQL, and Java, this system empowers universities and colleges to efficiently manage their extracurricular activities.
 
 ## Features
 
@@ -17,6 +17,14 @@ This is a web-based College Club Management System developed using Spring Boot, 
 - **Controllers**: Contains Java classes responsible for handling HTTP requests and routing them to appropriate methods.
 - **Services**: Contains Java classes implementing business logic and interacting with repositories.
 - **Design Patterns**: Implements various design patterns such as MVC, Facade, and Single Responsibility to ensure modular and maintainable codebase.
+
+## Technologies Used
+
+- **Spring Boot**: The application is built using the Spring Boot framework, leveraging its powerful features for rapid development and easy deployment.
+- **Maven**: Maven is used for dependency management and project build automation.
+- **SQL**: The system utilizes a relational database management system (RDBMS) for efficient data storage and retrieval.
+- **Java**: The core application logic is implemented using the Java programming language, ensuring cross-platform compatibility and robust performance.
+
 
 ## Getting Started
 
