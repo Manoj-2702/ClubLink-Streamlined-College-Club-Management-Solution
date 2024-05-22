@@ -1,4 +1,10 @@
-# College Club Management System
+<h1 align="center">
+  ClubLink: Streamlined College Club Management Solution
+</h1>
+
+<p align="center">
+  <img src="https://github.com/Manoj-2702/College-Club-Management-System/assets/103581128/ce5e5f56-9397-47b0-9303-ec5db7532c76" alt="Logo" />
+</p>
 
 The College Club Management System is a comprehensive web application designed to streamline the administration of college clubs, events, and membership. Built using Spring Boot, Maven, SQL, and Java, this system empowers universities and colleges to efficiently manage their extracurricular activities.
 
